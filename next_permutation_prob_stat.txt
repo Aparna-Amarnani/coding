@@ -30,3 +30,8 @@ Constraints:
 
 1 <= nums.length <= 100
 0 <= nums[i] <= 100
+
+#thought process
+1. find element for which arr[i-1]<arr[i]
+2. Swap this element with an element on its right which is just greater 
+3. Reverse the array on the right of the element
