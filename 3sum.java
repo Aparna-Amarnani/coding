@@ -1,4 +1,4 @@
-# O(n^3) solution
+//O(n^3) solution
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
         int closest=13001,sum=0,result=0;
@@ -26,7 +26,7 @@ class Solution {
     }
 }
 
-# O(n^2) solution
+// O(n^2) solution
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
