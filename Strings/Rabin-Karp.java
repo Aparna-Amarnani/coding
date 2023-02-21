@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-class Solution
+class Main
 {
     public static void main(String args[])throws IOException
     {
